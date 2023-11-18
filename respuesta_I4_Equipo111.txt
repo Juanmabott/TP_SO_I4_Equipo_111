@@ -1,13 +1,18 @@
 Bottaro Juan Manuel Manzanares Patricio
 
-A- ¿Qué color de fondo tiene su página en el TESTING ?
-B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
-C- ¿Qué color de fondo tiene su página en el MASTER?
-D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+A- ¿Qué color de fondo tiene su página en el TESTING ? Azul
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ? Amarillo
+
+C- ¿Qué color de fondo tiene su página en el MASTER? Blanco
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA? el de Beta
+
 cambios al unísono:
 
 18-ALFA en TESTING en el archivo index.html agrega un <p>apellido nombre fecha y
 hora </p>
+
 19-BETA en TESTING en el archivo index.html agrega un <p>apellido nombre fecha y
 hora </p>
 20-GAMMA en TESTING en el archivo index.html agrega un <p>apellido nombre fecha y
@@ -15,10 +20,10 @@ hora </p>
 21- hacen los PUSH en el siguiente orden
 primero ALFA , despues BETA y por último GAMMA
 Pregunta:
-E- ¿Algún integrante tuvo problemas al hacer el push?
-F- ¿Qué problemas surgieron?
+E- ¿Algún integrante tuvo problemas al hacer el push? No
+F- ¿Qué problemas surgieron? ninguno
 G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
-adoptada?
-H- ¿Qué sucede si cada uno utiliza el push -f?
-I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
-en DESARROLLO ?
+adoptada? se tendira que realizar de nuevo con el pull, actualizando la rama y modificandola 
+H- ¿Qué sucede si cada uno utiliza el push -f? se remplazarian
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20 
+en DESARROLLO ? un merge de testing 
